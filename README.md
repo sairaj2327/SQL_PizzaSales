@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4627abbc-3b8a-4ced-9c0f-534b818fd446)# Pizza Sales Analysis SQL Project
+# Pizza Sales Analysis SQL Project
 
 ## Project Overview
 
