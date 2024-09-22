@@ -19,7 +19,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ### 1. Database Setup
 
 - **Database Creation**: The project starts by creating a database named `d1.db`.
-- **Table Creation**: 4 tables named `orders`, 'orders_details', 'pizzas', 'pizza_types' is created to store the sales data. The table structure includes columns for 'pizza_id', 'pizza_type_id', 'size',	'price', 'pizza_type_id', 'name',	'category', 'ingredients', 'order_id', 'date', 'time', 'order_details_id', 'order_id', 'pizza_id', 'quantity'.
+- **Table Creation**: 4 tables named `orders`, `orders_details`, `pizzas`, `pizza_types` is created to store the sales data. The table structure includes columns for `pizza_id`, `pizza_type_id`, `size`,	`price`, `pizza_type_id`, `name`,	`category`, `ingredients`, `order_id`, `date`, `time`, `order_details_id`, `order_id`, `pizza_id`, `quantity`.
 
 
 ```sql
