@@ -42,7 +42,7 @@ CREATE TABLE order_details
 - **Category Count**: Identify all unique pizza categories in the dataset.
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
-
+```
 SELECT * FROM order_details
 WHERE 
     order_details IS NULL OR order_id IS NULL OR pizza_id IS NULL OR 
@@ -52,6 +52,7 @@ DELETE FROM order_details
 WHERE 
    order_details IS NULL OR order_id IS NULL OR pizza_id IS NULL OR 
    quantity IS NULL;
+```
 
 ### 3. Data Analysis & Findings
 
