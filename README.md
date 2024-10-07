@@ -5,8 +5,7 @@
 **Project Title**: Pizza Sales Analysis  
 
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze Pizza sales data. The project involves setting up a pizza sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who want to build a solid foundation in SQL.
-
+This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze Pizza sales data. The project involves setting up a pizza sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
 ## Objectives
 
 1. **Set up a Pizza sales database**: Create and populate a pizza sales database with the provided sales data.
